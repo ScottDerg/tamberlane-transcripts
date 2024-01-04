@@ -1,8 +1,8 @@
-FUERA DE CAMPO:  ¡Champiñones, porfavor! ¡Necesito los champiñones!
+FUERA DE CAMPO: ¡Champiñones, porfavor! ¡Necesito los champiñones!
 
-MURCIÉLAGO:  ¿Rebozuelos o de flammulina?
+MURCIÉLAGO: ¿Rebozuelos o de flammulina?
 
-VENADO:  Rebozuelos. 
+VENADO: Rebozuelos. 
 MURCIÉLAGO: ¿Estas seguro? Pensé que las de flammulina eran...
 VENADO: /Rebozuelos/
 
