@@ -1,8 +1,14 @@
-FUERA DE CAMPO: ¡Champiñones, porfavor! ¡Necesito los champiñones!
+FUERA DE CAMPO: ¡Champiñones, por favor! ¡Necesito los champiñones!
+
 MURCIÉLAGO: ¿Rebozuelos o de flammulina?
-VENADO: Rebozuelos. 
-MURCIÉLAGO: ¿Estas seguro? Pensé que las de flammulina eran...
-VENADO: /Rebozuelos/
-MURCIÉLAGO: ¡Está bien! Los Rebozuelos vienen en suegida. 
-MURCIÉLAGO: ¡Mientras trabajas en el omelet de mama, prepararé la tarta de la señora Cori!
+
+VENADO: Rebozuelos.
+MURCIÉLAGO: ¿Estás seguro? Pensé que las de flammulina eran...
+VENADO: *Rebozuelos.*
+
+MURCIÉLAGO: ¡Está bien! ¡Los Rebozuelos vienen en segida!
+
+MURCIÉLAGO: ¡Mientras trabajas en el omelet de mama,
+MURCIÉLAGO: prepararé la tarta de la señora Cori!
+
 FUERA DE CAMPO: ¡¡ARGH!!
