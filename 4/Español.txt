@@ -1,0 +1,19 @@
+MURCIÉLAGO:  Oh diablos, ¡¿qué paso?!
+VENADO: ¡Me diste /*flammulinas*/!
+[SFX: Cof Cof]
+
+MURCIÉLAGO: ¡Debo haberlas ordenado mal otra vez!
+
+MURCIÉLAGO: Oh, Papa, lo siento mucho.
+
+VENADO: Belfry, un día vas a hacerte cargo de nuestra pastelería. ¡Tienes que tomar más responsabilidad!
+
+BELFRY: ¡Lo sé, lo sé! ¡Lo arreglaré de inmediato! ¡Lo prometo!
+
+BELFRY: Solo cambiaré las etiquetas...
+[SFX: Peeeeeelar]
+
+[SFX: DING!]
+BELFRY: ¡Oh!
+
+BELFRY: ¡Ya sé! ¡Sacaré la tarta de Cori del horno!
