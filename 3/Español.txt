@@ -1,16 +1,8 @@
-***[OUTDATED]***
-
-Fuera de la pantalla:  ¡Champillones, porfavor! ¡Necesito los champillones!
-
-Murciélago:  ¿Rebozuelos o hongos de terciopelo?
-
-Venado:  Rebozuelos. 
-Murciélago: ¿Seguro? Me hace memoria que.. 
-Venado: /Rebozuelos/
-
-Murciélago: ¡Bien! Los Rebozuelos vienen en suegida. 
-
-
-Murciélago: ¡Mientras trabajas en el plato de Tess, me preparo por Miss Cori!
-
-Fuera de pantalla: ¡¡ARGH!!
+FUERA DE CAMPO: ¡Champiñones, porfavor! ¡Necesito los champiñones!
+MURCIÉLAGO: ¿Rebozuelos o de flammulina?
+VENADO: Rebozuelos. 
+MURCIÉLAGO: ¿Estas seguro? Pensé que las de flammulina eran...
+VENADO: /Rebozuelos/
+MURCIÉLAGO: ¡Está bien! Los Rebozuelos vienen en suegida. 
+MURCIÉLAGO: ¡Mientras trabajas en el omelet de mama, prepararé la tarta de la señora Cori!
+FUERA DE CAMPO: ¡¡ARGH!!
