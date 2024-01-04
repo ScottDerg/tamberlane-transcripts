@@ -1,5 +1,5 @@
 VENADO: Ahora, Belfry... 
-VENADO: No te olvidez de usar los
+VENADO: No te olvides de usar los
 VENADO: *¡guantes de cocina!*
 
 [SFX: paff]
